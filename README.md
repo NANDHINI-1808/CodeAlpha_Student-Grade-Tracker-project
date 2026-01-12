@@ -12,7 +12,7 @@ TASK 1: Student Grade Tracker
 5)Make the interface console-based or GUI-based as desired.
 
 
-For the AI Viva Examiner Agent, likely technologies include:
+technologies:
 
 1)NLP (Natural Language Processing): for understanding and evaluating responses.
 
