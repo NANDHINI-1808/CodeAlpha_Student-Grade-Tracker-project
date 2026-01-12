@@ -14,15 +14,17 @@ TASK 1: Student Grade Tracker
 
 technologies:
 
-1)NLP (Natural Language Processing): for understanding and evaluating responses.
+1)Java:programming language
 
-2)Machine Learning: for improving question generation and assessment.
+2)NLP (Natural Language Processing): for understanding and evaluating responses.
 
-3)Speech Recognition: for voice-based interactions.
+3)Machine Learning: for improving question generation and assessment.
 
-4)Text Analysis: for keyword matching and scoring.
+4)Speech Recognition: for voice-based interactions.
 
-5)Web/App Interface: for user interaction.
+5)Text Analysis: for keyword matching and scoring.
+
+6)Web/App Interface: for user interaction.
 
 Submitted by
 
